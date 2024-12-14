@@ -77,7 +77,7 @@
     transition: 0.3s all linear;
   }
 
-  main {
+  main section {
     margin-top: 200px;
     display: flex;
     flex-direction: column;
